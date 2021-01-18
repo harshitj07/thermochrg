@@ -14,7 +14,7 @@ header {
 }
 
 h1,h2, p, a, li {
-	font-family: 'Nunito', cursive;
+	font-family: 'Nunito', sans-serif;
 }
 
 header h1 {
