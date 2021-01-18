@@ -7,7 +7,7 @@ body {
 }
 
 header {
-	background-color: darkred;
+	background-color: #c92828;
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
@@ -18,13 +18,13 @@ h1,h2, p, a, li {
 }
 
 header h1 {
-	color: gold;
+	color: white;
 	font-size: 50px;
 }
 
 header img {
 	border-radius: 150px;
-	border: 15px solid gold;
+	border: 15px solid white;
 }
 
 main {
@@ -48,12 +48,12 @@ a {
 }
 
 a:hover {
-	color: white;
-	background-color: gold;
+	color: red;
+	background-color: white;
 }
 
 footer {
-	background-color: darkred;
+	background-color: #c92828;
 	text-align: center;
 	color: white;
 	padding: 50px;
@@ -79,22 +79,30 @@ p.caption {
 }
 
 div.about {
-	background-color: gold;
+	background-color: black;
 	padding: 25px;
 	margin: 10px;
 	border-radius: 10px;
 }
 
-div.characteristics {
-	background-color: gold;
+div.procedure {
+	background-color: black;
 	padding: 25px;
 	margin: 10px;
 	border-radius: 10px;
 }
 
-div.friends {
-	background-color: gold;
+div.buy {
+	background-color: black;
 	padding: 25px;
 	margin: 10px;
 	border-radius: 10px;
+}
+
+p {
+	color: white;
+}
+
+li {
+	color: white;
 }
