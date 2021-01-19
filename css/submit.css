@@ -1,0 +1,136 @@
+
+body {
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	line-height: 30px;
+}
+
+header {
+	background-color: #c92828;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1,h2, p, a, li, label, h3 {
+	font-family: 'Nunito', sans-serif;
+}
+
+header h1 {
+	color: black;
+	font-size: 50px;
+}
+
+header img {
+	border-radius: 150px;
+	border: 15px solid black;
+}
+
+main {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img {
+	max-width: 100%;
+}
+
+h2 {
+	font-size: 30px;
+	color: #e70e19;
+	margin: 40px 0 10px;
+}
+
+a {
+	color: #e70e19;
+}
+
+a:hover {
+	color: red;
+	background-color: white;
+}
+
+footer {
+	background-color: #c92828;
+	text-align: center;
+	color: white;
+	padding: 50px;
+}
+
+footer p{
+	margin: 0;
+}
+
+footer a {
+	color: white;
+}
+
+footer a:hover {
+	opacity: .5;
+	background-color: transparent;
+}
+
+p.caption {
+	color: #e70e19;
+	font-style: italic;
+	margin-top: 0;
+}
+
+div.about {
+	background-color: #1c1c1c;
+	padding: 25px;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+div.procedure {
+	background-color: #1c1c1c;
+	padding: 25px;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+div.buy {
+	background-color: #1c1c1c;
+	padding: 25px;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+div.form {
+	color: white;
+	background-color: #1c1c1c;
+	padding: 25px;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+div.soon {
+	color: white;
+	background-color: #1c1c1c;
+	padding: 25px;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+div.mail {
+	color: white;
+	background-color: #1c1c1c;
+	padding: 25px;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+p {
+	color: white;
+}
+
+li {
+	color: white;
+}
+
+h3 {
+	color: #e70e19;
+}
