@@ -13,7 +13,7 @@ header {
 	padding-bottom: 50px;
 }
 
-h1,h2, p, a, li {
+h1,h2, p, a, li, label {
 	font-family: 'Nunito', sans-serif;
 }
 
@@ -93,6 +93,14 @@ div.procedure {
 }
 
 div.buy {
+	background-color: #1c1c1c;
+	padding: 25px;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+div.form {
+	color: white;
 	background-color: #1c1c1c;
 	padding: 25px;
 	margin: 10px;
