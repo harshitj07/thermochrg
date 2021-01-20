@@ -107,7 +107,23 @@ div.form {
 	border-radius: 10px;
 }
 
+div.soon {
+	color: white;
+	background-color: #1c1c1c;
+	padding: 25px;
+	margin: 10px;
+	border-radius: 10px;
+}
+
 div.mail {
+	color: white;
+	background-color: #1c1c1c;
+	padding: 25px;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+div.soon {
 	color: white;
 	background-color: #1c1c1c;
 	padding: 25px;
@@ -127,10 +143,3 @@ h3 {
 	color: #e70e19;
 }
 
-div.soon {
-	color: white;
-	background-color: #1c1c1c;
-	padding: 25px;
-	margin: 10px;
-	border-radius: 10px;
-}
