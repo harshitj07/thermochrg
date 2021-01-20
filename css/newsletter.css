@@ -13,7 +13,7 @@ header {
 	padding-bottom: 50px;
 }
 
-h1,h2, h3, p, a, li, label {
+h1,h2, p, a, li, label, h3 {
 	font-family: 'Nunito', sans-serif;
 }
 
@@ -100,6 +100,14 @@ div.buy {
 }
 
 div.form {
+	color: white;
+	background-color: #1c1c1c;
+	padding: 25px;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+div.soon {
 	color: white;
 	background-color: #1c1c1c;
 	padding: 25px;
