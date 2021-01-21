@@ -159,7 +159,7 @@ h3 {
   display: block;
   color: #f2f2f2;
   text-align: center;
-  padding: 17px 20px;
+  padding: 17px 55.76px;
   text-decoration: none;
   font-size: 20px;
 }
@@ -178,7 +178,7 @@ h3 {
   display: none;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
     float: right;
@@ -186,7 +186,7 @@ h3 {
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
     position: absolute;
