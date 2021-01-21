@@ -148,6 +148,10 @@ h3 {
 .topnav {
   overflow: hidden;
   background-color: #1c1c1c;
+  max-width: 780px;
+  float: center;
+  margin: 0 auto;
+  border-radius: 10px;
 }
 
 .topnav a {
