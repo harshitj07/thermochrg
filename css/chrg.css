@@ -76,6 +76,7 @@ p.caption {
 	color: #e70e19;
 	font-style: italic;
 	margin-top: 0;
+	text-align: center;
 }
 
 div.about {
@@ -86,6 +87,13 @@ div.about {
 }
 
 div.procedure {
+	background-color: #1c1c1c;
+	padding: 25px;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+div.video {
 	background-color: #1c1c1c;
 	padding: 25px;
 	margin: 10px;
@@ -143,6 +151,14 @@ h3 {
 	color: #e70e19;
 }
 
+img {
+	border-radius: 10px;
+}
+
+iframe {
+	border-radius: 10px;
+}
+
 /*navigation bar*/
 
 .topnav {
@@ -198,5 +214,3 @@ h3 {
     text-align: left;
   }
 }
-
-
